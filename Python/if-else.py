@@ -1,5 +1,5 @@
 try: 
-        n = int(input("Entrez un entier : "))
+        n = int(input())
 
         if n % 2 == 0 :
             if 2 <= n <= 5 :
